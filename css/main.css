@@ -1,0 +1,45 @@
+.blanco{
+	margin: 5%;
+}
+header{
+	padding: 2%;
+	background-color: black;
+	width: 100%;
+}
+.espacio{
+	padding: 5%;
+}
+.panoramicaciudad{
+	width: 90%%;
+	height: 90%;
+}
+h1{
+	font-size: 30px;
+	color: white;
+	margin-left: 20%;
+}
+nav li{
+	list-style-type: none;
+	text-decoration: none;
+	display: inline-block;
+	color: white;
+	margin-right: 3%;
+}
+a{
+	text-decoration: none;
+}
+a:hover{
+	color: pink;
+}
+.active a{
+	text-decoration: none;
+}
+button{
+	border-radius: 30%;
+	background-color: gray;
+	padding: 2%;
+	font-size: 13px;
+}
+.blancomini{
+	margin: 3%;
+}
